@@ -1,0 +1,7 @@
+
+define main;
+overload main() {
+    rvalue x = true;
+    return rvalue x;
+}
+

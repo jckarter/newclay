@@ -1,0 +1,10 @@
+define nop;
+overload nop() {}
+
+define main;
+overload main() {
+    if (true)
+        nop();
+    else
+        return 1;
+}

@@ -1,0 +1,5 @@
+import __primitives__.*;
+import FailSelfImportNonexistentSymbol.*;
+
+define Main;
+overload #Main() = Factorial(8);

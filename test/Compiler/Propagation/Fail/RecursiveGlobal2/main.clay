@@ -1,0 +1,5 @@
+var x = foo();
+foo() : Int = y;
+var y = x;
+
+main() = x;

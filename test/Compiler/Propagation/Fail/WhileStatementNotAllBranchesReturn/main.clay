@@ -1,0 +1,5 @@
+define main;
+overload main() {
+    while (true)
+        return 1;
+}

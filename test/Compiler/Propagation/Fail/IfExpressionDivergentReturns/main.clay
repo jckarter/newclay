@@ -1,0 +1,7 @@
+define main;
+overload main() =
+    if (true)
+        true
+    else
+        0;
+

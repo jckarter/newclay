@@ -1,0 +1,5 @@
+import __primitives__.*;
+
+#SomeStringChars('s) = 's[0], 's[3], 's[6];
+
+#Main() = ..SomeStringChars("");

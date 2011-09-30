@@ -1,0 +1,3 @@
+import __primitives__.*;
+
+define Bar as (Foo);

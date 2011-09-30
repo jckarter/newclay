@@ -1,0 +1,3 @@
+define zang;
+
+define ZangType as RecordType();

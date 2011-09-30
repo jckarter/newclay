@@ -1,0 +1,8 @@
+import test.fakevalues.(arg);
+import show.(show);
+
+foo() = arg(Bool) and foo();
+
+main() {
+    show(#type(->  foo() ));
+}
